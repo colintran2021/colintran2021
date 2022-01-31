@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello my name is Colin Tran. I am currently a third year student. I am majoring in Computer Science. I am interested in learning software and the uses of github. I am working on this assignment. My favorite hobby is gaming. 
 <!--
 **colintran2021/colintran2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
